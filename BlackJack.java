@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class BlackJack {
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         Baraja baraja = new Baraja();
         baraja.crearBaraja();
         Collections.shuffle(baraja.getBaraja());
@@ -93,7 +93,7 @@ public class BlackJack {
         }
 
         scanner.close();
-    }
+    }*/
 
     // Lógica del crupier
     public static boolean decidirCrupier(Baraja baraja) {
