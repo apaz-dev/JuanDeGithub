@@ -28,4 +28,8 @@ public class Baraja {
             return false;
         } else return true;
     }
+
+	public void paz() {
+		System.out.println("\nEmpate");
+	}
 }
